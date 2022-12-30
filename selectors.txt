@@ -1,0 +1,2 @@
+xpath = //div[@class='table_1']//table[not(@class='default fixed-header copy')]//tr[not(@class) and .//td[contains(., "Kanada")]]
+css = div.table_1 table:not(table.copy) tr:nth-child(13)

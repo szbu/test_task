@@ -1,0 +1,9 @@
+{
+    "titles":{
+        "homepage": "TestArena",
+        "loginpage": "TestArena Demo",
+        "dashboardpage": "Cockpit - TestArena",
+        "versionspage": "Versions - TestArena",
+        "addnewversionpage": "Add a version - TestArena"
+    }
+}
